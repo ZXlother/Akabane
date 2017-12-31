@@ -1,2 +1,2 @@
 # Akabane
-A neural network based trading application focusing on Cyrptocurrency market.
+A neural network based trading application focusing on cyrptocurrency market.
