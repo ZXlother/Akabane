@@ -27,3 +27,14 @@ sudo apt-get install libpng12-dev
 sudo apt-get install libfreetype6-dev
 sudo pip3 install matplotlib
 
+
+#Exchange API links
+1. Binance
+   Documentation: https://www.binance.com/restapipub.html
+   Discussion: https://www.binance.com/restapipub.html
+   
+#Search Engines:
+1. Google
+2. Yahoo Japan
+3. Baidu
+         
