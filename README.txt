@@ -21,3 +21,9 @@ sudo apt-get install python3-lxml
 pip3 install lxml
 pip3 install pytrends
 curl -s https://raw.githubusercontent.com/GeneralMills/pytrends/master/examples/example.py | python3
+
+#Matplotlib
+sudo apt-get install libpng12-dev
+sudo apt-get install libfreetype6-dev
+sudo pip3 install matplotlib
+
