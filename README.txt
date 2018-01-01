@@ -31,6 +31,7 @@ sudo pip3 install matplotlib
 #Exchange API links
 1. Binance
    Documentation: https://www.binance.com/restapipub.html
+   Source: https://github.com/binance-exchange/binance-official-api-docs
    Discussion: https://www.binance.com/restapipub.html
    
 #Search Engines:
